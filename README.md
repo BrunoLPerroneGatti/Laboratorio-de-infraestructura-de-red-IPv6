@@ -2,7 +2,7 @@
 
 Proyecto académico de redes enfocado en el diseño, configuración y validación de una red empresarial IPv6 utilizando routers y hosts basados en Linux.
 
-![alt text](Topología.png)
+![topologia](screenshots/Topología.png)
 
 
 ---
